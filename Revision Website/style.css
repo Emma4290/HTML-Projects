@@ -1,0 +1,11 @@
+a:hover {
+    color: black;
+    background: yellow;
+  }
+  
+  @media (hover: hover) {
+     a:hover {
+      color: green;
+      background: black;
+    }
+  }
